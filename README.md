@@ -1,2 +1,5 @@
-The sounds.zip file has got the sounds.
-Download it and extract it in the same folder of the project. 
+# This is a web project developed in HTML CSS JS.
+
+
+## Website Link
+https://makesound.azurewebsites.net/
